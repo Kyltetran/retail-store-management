@@ -1,2 +1,2 @@
-# retail-store-management-software
+# Retail Store Management Software
  Demo Video: https://youtu.be/vDMjJPSev6s
