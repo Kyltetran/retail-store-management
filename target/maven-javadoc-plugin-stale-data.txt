@@ -1,0 +1,47 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'/Users/nhuquynhtran/NetBeansProjects/Project2/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/nhuquynhtran/NetBeansProjects/Project2/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Project2 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Project2 1.0-SNAPSHOT API'
+databasesystems.project2
+/Users/nhuquynhtran/NetBeansProjects/Project2/src/main/java = 1733136761408
+/Users/nhuquynhtran/NetBeansProjects/Project2/target/reports/apidocs/tag-search-index.js = 1733136807223
+/Users/nhuquynhtran/NetBeansProjects/Project2/target/reports/apidocs/overview-tree.html = 1733136807210
+/Users/nhuquynhtran/NetBeansProjects/Project2/target/reports/apidocs/module-search-index.js = 1733136807221
+/Users/nhuquynhtran/NetBeansProjects/Project2/target/reports/apidocs/index.html = 1733136807229
+/Users/nhuquynhtran/NetBeansProjects/Project2/target/reports/apidocs/package-search-index.js = 1733136807222
+/Users/nhuquynhtran/NetBeansProjects/Project2/target/reports/apidocs/link.svg = 1733136807238
+/Users/nhuquynhtran/NetBeansProjects/Project2/target/reports/apidocs/index-all.html = 1733136807227
+/Users/nhuquynhtran/NetBeansProjects/Project2/target/reports/apidocs/allpackages-index.html = 1733136807221
+/Users/nhuquynhtran/NetBeansProjects/Project2/target/reports/apidocs/member-search-index.js = 1733136807222
+/Users/nhuquynhtran/NetBeansProjects/Project2/target/reports/apidocs/copy.svg = 1733136807237
+/Users/nhuquynhtran/NetBeansProjects/Project2/target/reports/apidocs/script.js = 1733136807237
+/Users/nhuquynhtran/NetBeansProjects/Project2/target/reports/apidocs/stylesheet.css = 1733136807236
+/Users/nhuquynhtran/NetBeansProjects/Project2/target/reports/apidocs/search-page.js = 1733136807242
+/Users/nhuquynhtran/NetBeansProjects/Project2/target/reports/apidocs/help-doc.html = 1733136807233
+/Users/nhuquynhtran/NetBeansProjects/Project2/target/reports/apidocs/element-list = 1733136807190
+/Users/nhuquynhtran/NetBeansProjects/Project2/target/reports/apidocs/search.html = 1733136807228
+/Users/nhuquynhtran/NetBeansProjects/Project2/target/reports/apidocs/allclasses-index.html = 1733136807218
+/Users/nhuquynhtran/NetBeansProjects/Project2/target/reports/apidocs/type-search-index.js = 1733136807222
+/Users/nhuquynhtran/NetBeansProjects/Project2/target/reports/apidocs/search.js = 1733136807242
